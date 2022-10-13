@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="start_game">Start Game</string>
+    <string name="exit">Exit</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="true_bt">True</string>
+    <string name="false_bt">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="question1">Prince Harry is taller than Prince William</string>
+    <string name="answer1">Prince William is 1.91m, Prince Harry is 1.86m</string>
+
+    <string name="question2">Sharks are mammals</string>
+    <string name="answer2">They are actually classified as fish</string>
+
+    <string name="question3">The blue whale is the biggest animal to have ever lived</string>
+    <string name="answer3">Includes dinosaurs!</string>
+
+    <string name="question4">The hummingbird egg is the world s smallest bird egg</string>
+    <string name="answer4">On the flip side, ostriches lay the largest egg</string>
+
+    <string name="question5">Pigs roll in the mud because they don’t like being clean</string>
+    <string name="answer5">Pigs have few sweat glands and their muddy baths help keep them cool</string>
+</resources>
